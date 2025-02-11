@@ -49,12 +49,12 @@ Note: On each of those options, you'll find:
   - Neural Networks
   - Deep Neural Networks (DNN)
   - Convolutional Neural Networks (CNN)
-  - PyTorch classifier
+  <!-- PyTorch classifier --> 
   - Recurrent Neural Networks (RNN)
-  - Natural Language Processing
-  - Text Categorization
-  - Information Retrieval
-  - Information Extraction
+   <!--  Natural Language Processing --> 
+   <!-- Text Categorization --> 
+   <!-- Information Retrieval --> 
+   <!-- Information Extraction --> 
 
 ## Course Structure
 
