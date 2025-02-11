@@ -22,7 +22,7 @@ Note: On each of those options, you'll find:
 - Unzip download (main.zip) appropriate place.
 - Launch Ananconda and start JuPyter Notebook ([Install it from here if needed](https://www.anaconda.com/products/individual))
 - Open the first Notebook from download.
-- Start watching the first video lesson ([YouTube](https://youtu.be/pQA6MGsXCNg)).
+#- Start watching the first video lesson ([YouTube](https://youtu.be/pQA6MGsXCNg)).
 
 ### Option 2
 
